@@ -10,7 +10,7 @@
     <p style="text-align: center;">User Details</p>
     <table  width="100%" border="1">
         <tr>
-            <td><b>Name:</b></td>
+            <td style="font-size: x-large;"><b>Name:</b></td>
             <td><?=$user['username']?></td>
             <td><b>Email:</b></td>
             <td><?=$user['email']?></td>
